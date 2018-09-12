@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_fragment_bottom_menu_all"
+        android:title="@string/all_photos" />
+
+    <item
+        android:id="@+id/main_fragment_bottom_menu_database"
+        android:title="@string/database_photo" />
+
+    <item
+        android:id="@+id/main_fragment_bottom_menu_internet"
+        android:title="@string/internet_photo" />
+
+</menu>
